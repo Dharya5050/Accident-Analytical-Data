@@ -1,43 +1,40 @@
-# Accident-Analytical-Data
-🚗 Road Accident Analysis Dashboard (Excel)
-This project is a comprehensive Excel-based dashboard that visualizes and analyzes road accident data across multiple factors such as vehicle type, lighting conditions, road surface, weather, location type, and accident severity.
+# 🚗 Road Accident Dashboard in Excel
 
-🔍 Objective:
-To explore and uncover patterns in road accident casualties to support safer transportation planning through data-driven insights.
+This project is a comprehensive Excel-based data visualization of road accident casualties in the UK (or any source dataset), analyzing over 417,000 records.
 
-📊 Key Features:
-Dynamic Dashboard using Pivot Tables, Slicers, and Interactive Charts
+## 📌 Project Overview
 
-Visual analysis by:
+The dashboard provides interactive analysis across:
+- 🚗 Vehicle Types (Cars, Bikes, Vans, etc.)
+- 🌞 Lighting Conditions (Daylight vs Darkness)
+- 🌧️ Weather & Road Surface Conditions
+- 🏙️ Urban vs Rural Accidents
+- ⚠️ Accident Severity (Fatal, Serious, Slight)
+- 🛣️ Road Types
 
-Casualty Severity (Fatal, Serious, Slight)
+## 📊 Features
 
-Vehicle Types (Car, Bike, Bus, Van, etc.)
+- Dynamic Excel Dashboard with Pivot Tables and Slicers
+- Multi-chart setup: Line, Donut, Pie, and Bar Charts
+- Custom formatting with a modern dark theme
+- Year-over-year casualty comparison (2021 vs 2022)
 
-Lighting & Weather Conditions
+## 🔧 Tools Used
 
-Road Surface & Road Type
+- Microsoft Excel
+- Pivot Tables & Charts
+- Slicers and Filters
+- Data Cleaning and Structuring
 
-Urban vs Rural Accidents
+## 📈 Key Insights
 
-Year-over-year comparison (2021 vs 2022) of casualty patterns
+- Over 79% of casualties involved cars
+- 84% of accidents were categorized as slight
+- Most accidents occurred in urban zones and during daylight
+- Single carriageways saw the highest number of accidents
 
-Clean, modern visual design optimized for storytelling
+## 🧠 Outcome
 
-🛠️ Tools & Techniques:
-Microsoft Excel
+Helps identify accident-prone conditions and categories, enabling better data-driven safety strategies.
 
-Pivot Tables & Pivot Charts
-
-Slicers for filtering and interaction
-
-Donut, Line, Pie & Bar Charts
-
-Conditional Formatting
-
-📁 Dataset:
-This analysis uses cleaned road accident data sourced from government traffic databases (or a mock dataset for educational purposes).
-Note: Data shown is anonymized or used for practice/demo.
-
-📌 Outcome:
-Helps identify high-risk accident zones, contributing vehicle types, and conditions—supporting better decision-making and prevention strategies.
+---
